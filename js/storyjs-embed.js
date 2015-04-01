@@ -338,7 +338,7 @@ function createStoryJS( c, src ) {
             google: [ "Pacifico::latin", "Arimo:400,700,400italic,700italic:latin" ]
         }, {
             name: "Sketchfab",
-            google: [ "Titillium+Web::latin", "Open+Sans::latin" ]
+            google: [ "Titillium+Web:400,300,600,700:latin", "Open+Sans:300,400,600,700:latin" ]
         } ];
     if ( typeof c == "object" ) {
         for ( x in c ) {
